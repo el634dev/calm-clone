@@ -1,4 +1,4 @@
-# Bank Account
+# Calm Website Clone
 > Created a clone of the Calm website
 > No live demo however you can run the code in VSCode or PyCharm
 
