@@ -1,6 +1,7 @@
 # Calm Website Clone
 > Created a clone of the Calm website
-> No live demo however you can run the code in VSCode or PyCharm
+>
+> Live demo [_here_](https://calm-clone-7yg3zrb96-el634dev.vercel.app/)
 
 ## Table of Contents
 * [General Info](#general-information)
