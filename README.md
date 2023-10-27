@@ -13,7 +13,7 @@
 
 ## Important
 - Make sure to link Bootstrap in your HTML file at the top with the meta tags but below it or you will not see any changes made with Bootstrap
-- If you use vanilla CSS link it below or CSS could override Bootstrap
+- If you use vanilla CSS link it below your Bootstrap link or CSS could override Bootstrap
 
 ## General Information
 - Project is built using HTML, CSS 3, Bootstrap 5
