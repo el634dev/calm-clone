@@ -1,0 +1,110 @@
+body {
+    background-image: 
+    linear-gradient(268deg, rgba(0, 0, 0, 0) 22%, rgba(0, 0, 0, 0.6) 87%), /* This is the overlay, adjust as needed. */
+    url("./images/jasper-lake.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.btn-outline-secondary {
+    border-radius: 20px;
+    padding: 0.60em;
+    border: 2px solid #fff;
+}
+
+/* Text under Find Your Calm */
+.subline {
+    font-weight: normal;
+    font-size: 1.50rem;
+}
+
+.sub {
+    font-size: 1.24rem;
+    font-weight: 500;
+}
+
+.heading {
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+/* Navbar & Navbar Items */
+.navbar {
+    display: flex;
+    justify-content: flex-start;
+}
+
+/* Items on the right */
+.navbar-nav {
+    margin-left: 290px;
+    gap: 25px;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+/* Logo */
+.navbar-brand {
+    margin-left: 250px;
+}
+
+/* Try Calm Button */
+.navbutton {
+    padding: 0.90rem;
+    font-size: 1.01rem;
+    font-weight: 600;
+    border-radius: 200px;
+}
+
+.navbutton:hover {
+    background-color: transparent !important;
+    opacity: 0.8;
+    border: 2px solid #fff;
+}
+
+/* Hero Section */
+.hero-background-img {
+    background-color: transparent;
+    text-align: left;
+    margin-left: 222px;
+}
+
+.btn-primary {
+    background-color: #fff;
+    color: black;
+    border-radius: 16px;
+    width: 380px;
+}
+
+.btn-primary:hover {
+    background-color: lightgray;
+}
+
+/* Under What can we help you with today? */
+.columns {
+    margin-left: -22px;
+}
+
+/* Footer */
+/* Footer Columns(Company, Help, Offers*/
+.footer-col {
+    text-align: left;
+}
+
+.footer-col h5 {
+    font-size: 1.20rem;
+}
+
+.list {
+    font-size: 1rem;
+}
+
+/* Soical Media Icons */
+.social {
+    display: grid;
+}
+
+.social-items {
+    justify-content: space-evenly;
+}
