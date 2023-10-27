@@ -8,6 +8,7 @@
 * [Important](#important)
 * [Setup](#setup)
 * [Project Status](#project-status)
+* [Icons](#icons)
 <!-- * [License](#license) -->
 
 ## Important
