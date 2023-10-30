@@ -17,7 +17,7 @@
 - If you use vanilla CSS link it below your Bootstrap link or CSS could override Bootstrap
 
 ## General Information
-- Project is built using HTML, CSS 3, Bootstrap 5
+- Project is built using HTML, CSS 3, JavaScript and Bootstrap 5
 - The purpose of this project is to practice with Bootstrap 
 - This project was undertaken for fun
 <!-- What problem does it (intend to) solve?-->
@@ -26,9 +26,10 @@
 ## Technologies Used
 - HTML - version 5
 - CSS - version 3
+- JavaScript 
 - Bootstrap - version 5
 - VSCode
-
+  
 ## Setup
 The requirements for this project are simple and do not require much setup. You will need a code editor of your choice. I used VSCode because I could see the project in the browser using Live Server. There are no dependencies, only additional plugins if you would like to set them up in VSCode. If you are unsure, then I would say Live Server this is required if you would like to see your project and the changes you make to your project. You can get all the plugins in VSCode in the side menu, it looks like blocks. You can download VSCode for free and this is developed by Microsoft.
 
@@ -38,3 +39,6 @@ Project is: _complete_
 ## Icons
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/download)
+
+## Changing the Navbar from Transparent to a Solid Color Video
+[ByteGrad](https://www.youtube.com/watch?v=z70GTU3p72I)
