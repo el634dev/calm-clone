@@ -49,6 +49,38 @@ body {
     margin-left: 250px;
 }
 
+/* Style for the navbar when user scrolls */
+.navbar-scroll {
+    background-color: #fff;
+    box-shadow: 0 2px 5px #fff;
+}
+
+/* Style for For Business Link when user scrolls */
+.navitem-scroll {
+    background-color: #fff;
+    color: black !important;
+}
+
+.login-scroll {
+    background-color: #fff;
+    color: black !important;
+}
+
+/* Style for button when user scrolls */
+.button-scroll {
+    background-color: #fff;
+    border: 2px solid black;
+    color: black !important;
+}
+
+/* Change backgroun image when user scrolls */
+.navbrand-scroll {
+    background-image: url('./images/logo.jpg');
+    background-size: contain;
+    object-fit: contain;
+    background-repeat: no-repeat;
+}
+
 /* Try Calm Button */
 .navbutton {
     padding: 0.90rem;
@@ -58,7 +90,7 @@ body {
 }
 
 .navbutton:hover {
-    background-color: transparent !important;
+    background-color: transparent;
     opacity: 0.8;
     border: 2px solid #fff;
 }
