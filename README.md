@@ -1,7 +1,7 @@
 # Calm Website Clone
 > Created a clone of the Calm website
 >
-> Live demo [_here_](https://calm-clone-7yg3zrb96-el634dev.vercel.app/)
+> Live demo [_here_](https://calm-clone-sooty.vercel.app/)
 
 ## Table of Contents
 * [General Info](#general-information)
