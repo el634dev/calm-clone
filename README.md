@@ -10,6 +10,7 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Icons](#icons)
+* [Video](#video)
 <!-- * [License](#license) -->
 
 ## Important
@@ -40,5 +41,6 @@ Project is: _complete_
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/download)
 
-## Changing the Navbar from Transparent to a Solid Color Video
+## Video
 [ByteGrad](https://www.youtube.com/watch?v=z70GTU3p72I)
+- Change navbar from transparent to a solid color
