@@ -28,11 +28,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
   
 ## Technologies Used
-- HTML - version 5
-- CSS - version 3
-- JavaScript 
-- Bootstrap - version 5
-- VSCode
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 ## Setup
 The requirements for this project are simple and do not require much setup. You will need a code editor of your choice. I used VSCode because I could see the project in the browser using Live Server. There are no dependencies, only additional plugins if you would like to set them up in VSCode. If you are unsure, then I would say Live Server this is required if you would like to see your project and the changes you make to your project. You can get all the plugins in VSCode in the side menu, it looks like blocks. You can download VSCode for free and this is developed by Microsoft.
