@@ -4,7 +4,8 @@
 > Live demo [_here_](https://calm-clone-sooty.vercel.app/)
 > 
 > Original Website [_here_ ](https://www.calm.com)
-
+- Make sure to open the original website in a new window or tab
+  
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
