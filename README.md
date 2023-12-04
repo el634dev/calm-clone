@@ -35,7 +35,14 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 ## Setup
-The requirements for this project are simple and do not require much setup. You will need a code editor of your choice. I used VSCode because I could see the project in the browser using Live Server. There are no dependencies, only additional plugins if you would like to set them up in VSCode. If you are unsure, then I would say Live Server this is required if you would like to see your project and the changes you make to your project. You can get all the plugins in VSCode in the side menu, it looks like blocks. You can download VSCode for free and this is developed by Microsoft.
+- The requirements for this project are simple and do not require much setup. You will need a code editor of your choice. I used VSCode because I could see the project in the browser using Live Server. 
+- There are no dependencies for this project, only additional plugins if you would like to set them up in VSCode. 
+- If you are unsure, then I would say Live Server if you would like to see your project and the changes you make to your project.
+  >
+   a. You can get Live Server by heading over to VSCode then clicking the on blocks in the side menu and search for Live Server then install
+- You can download VSCode for free and this is developed by Microsoft.
+  >
+    b. Start by searching for VSCode in your browser and then download using the appropriate instllation link for your operating system.
 
 ## Project Status
 Project is: _complete_ 
